@@ -22,14 +22,17 @@ header {
     justify-content: space-between;
     padding: 0 8vw;
     align-items: center;
-    height: 52px;
+    height: 64px;
 }
 
 footer {
     background-color: #1F2937;
     color: #E5E7EB;
     padding: 0 5vw;
-    height: 52px;
+    height: 64px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 main {
